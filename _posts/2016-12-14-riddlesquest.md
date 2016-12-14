@@ -9,16 +9,19 @@ Hello guys, ok this is our game "Riddles". The core idea of this game is solve t
 ![](assets/images/riddles1.png)
 ![](assets/images/riddles1.png)
 
-![]({{site.baseurl}}assets/images/riddles1.png)
-
 We are looking forward for your feedback and let's finish the Quest.
 
 We get the some riddles from :
+
 * 11 Famous Murder Riddles - 9gag
+
 * gpuzzles.com
 
 
 Thanks to :
+
 * 9gag
+
 * gpuzzles.com
+
 * Theo Allen for the splash screen script
