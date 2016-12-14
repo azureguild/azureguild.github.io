@@ -8,6 +8,6 @@ Hello guys, ok this is our game "Riddles". The core idea of this game is solve t
 
 ![riddles1.png]({{site.baseurl}}/_posts/riddles1.png)
 ![riddles2.png]({{site.baseurl}}/_posts/riddles2.png)
-
+![]({{site.baseurl}}/https://en.wikipedia.org/wiki/BlueStacks#/media/File:BlueStacks_Logo.png)
 
 We are looking forward for your feedback and let's finish the Quest.
